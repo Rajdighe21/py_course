@@ -1,0 +1,9 @@
+# a = 1
+# while a <= 10:
+#     print(a) # ABHI OUT PUT 1 TO 10 AYENGA
+#     a = a + 1 #INCREMENT 1 HOGI
+# #print(a) #PAR ABHI OUT PUT 11 AYENGA Q KI JO LAST ME INCREMENT HUA HE VO BHI ADD HOJAYENGA PAR RIGHT WAY UPPAR WALA HE
+#
+# while a >= 1:   #ABHI A KI VALUE 11 HOGI
+#     print(a)   #OUT PUT  10 TO 1 AYENGA
+#     a=a-1 # ABHI DECRIMENT 1 SE HOGI
