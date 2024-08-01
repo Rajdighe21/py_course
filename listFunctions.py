@@ -23,18 +23,18 @@ l = [20, 32, 43, 99, 25, 4, 6]
 
 NewList = [10, 12, 13, 44, 55, 67, 43]
 
-#how to add value on index and delete old value
+# how to add value on index and delete old value
 # NewList[2] = 99
 # print(NewList)
 
 
-#insert function
+# insert function
 # NewList.insert(2,69)
 # print(NewList)
 
 
-#append() function
-#YEH EK LIST ME APPEND KI VALUE JAISI HAI VAISI KE VAISI ADD KARTA HAI
+# append() function
+# YEH EK LIST ME APPEND KI VALUE JAISI HAI VAISI KE VAISI ADD KARTA HAI
 
 # exampleFirst = [10,20,30,40,50]
 # exampleFirst.append(60)
@@ -45,9 +45,8 @@ NewList = [10, 12, 13, 44, 55, 67, 43]
 # print(exampleFirst)
 
 
-
-#extend() function
-#yeh list ke andar ke values ko last ,me add karrta hai
+# extend() function
+# yeh list ke andar ke values ko last ,me add karrta hai
 # exampleFirst = [10,20,30,40,50]
 # # exampleFirst.extend(60)
 # print(exampleFirst)
@@ -55,6 +54,7 @@ NewList = [10, 12, 13, 44, 55, 67, 43]
 # exampleSecond = [70,80,90,100]
 # exampleFirst.extend(exampleSecond)
 # print(exampleFirst)
+
 
 # COUNT FUNCTION
 # YE COUNT FUNCTION HE JO HAM ARRAY OR STRING KE ANDAR USE KARTE HAI
@@ -121,3 +121,16 @@ NewList = [10, 12, 13, 44, 55, 67, 43]
 # NewIndex = MyIndex.index(2)
 # print(NewIndex)
 # Out : 3rd index par value hai
+
+
+# NEW START
+# def nums(a, b):
+#     if a < b:
+#         out = [x for x in range(b)]
+#         print(out)
+#
+# nums(1,4)
+
+a = "fff"
+
+print (int(a, 16))
